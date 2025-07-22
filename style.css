@@ -142,7 +142,7 @@ li a.active::after {
 }
 #mainBanner button {
   background-color: transparent;
-  background-image: url(/img/button.png);
+  background-image: url(img/button.png);
   background-size: cover;
   border: 0;
   padding: 14px 80px 14px 65px;
@@ -558,7 +558,7 @@ margin-bottom: 20px;
 /* Shop Page */
 
 #header {
-  background-image: url("/img/banner/b1.jpg");
+  background-image: url("img/banner/b1.jpg");
   width: 100%;
   background-size: cover;
   background-position: center;
@@ -689,7 +689,7 @@ margin-bottom: 20px;
 /* Blog Page */
 
 #header.blog-header {
-  background-image: url("/img/banner/b19.jpg");
+  background-image: url("img/banner/b19.jpg");
 }  
 
 #blog {
@@ -764,7 +764,7 @@ margin-bottom: 20px;
 /* About Page */
 
 #header.about-header {
-  background-image: url("/img/about/banner.png");
+  background-image: url("img/about/banner.png");
 }
 
 #about-head {
